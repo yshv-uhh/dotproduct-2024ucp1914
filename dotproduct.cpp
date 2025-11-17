@@ -20,7 +20,7 @@ int main() {
     for (int i = 0; i < n; ++i)
         dotProduct += A[i] * B[i];
 
-    cout << "Dot Product = " << dotProduct << endl;
+    cout << "Dot Product of two vectors is = " << dotProduct << endl;
 
     return 0;
 }
